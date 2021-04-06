@@ -10,3 +10,13 @@
 #define LED_PIO_IDX_MASK  (1 << LED_PIO_IDX)
 ```
 #### BOTÃO
+```
+#define BUT_PIO         PIOA
+#define BUT_PIO_ID        ID_PIOA
+#define BUT_PIO_IDX       11
+#define BUT_PIO_IDX_MASK (1u << BUT_PIO_IDX)
+```
+
+```
+
+```
