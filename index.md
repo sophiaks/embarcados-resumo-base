@@ -1,15 +1,13 @@
-[TOC]
-# Defines
-## Placa
-## PIOs
-### EXT1
-### EXT2
-## OLED
-### EXT1
-### EXT2
-
-### Defines
-### 
+* TOC
+* 1. Defines
+* 1.1 Placa
+* 1.2 PIOs
+* 1.2.1 EXT1
+* 1.2.2 EXT2
+* 1.3 OLED
+* 1.3.1 EXT1
+* 1.3.2 EXT2
+{:toc}
 
 ```markdown
 #define LED_PIO        PIOC
