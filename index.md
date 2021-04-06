@@ -1,5 +1,4 @@
 * auto-gen TOC:
-{:toc}
 
 ## DEFINES
 ### Placa
